@@ -19,10 +19,10 @@
 This test plan highlights the test strategy for the User Regisration System
 
 ## Scope
-In Scope -
+In Scope - <br />
 The scope of testing includes the user registration system.
 
-Out of Scope - 
+Out of Scope -  <br />
 Any functional flow other than user registration system is out of scope.
 
 ## Test Approach
@@ -123,11 +123,11 @@ Expected - The user should see a valid error message
 Testing will be conducted from March 3 to March 7, covering functional, API, and database testing to ensure end-to-end functionality is working as expected. After execution, we will provide stakeholders with an execution report. Once the feature is stable, we will begin writing automation scripts to cover all test scenarios.
 
 ## Test Deliverables
-Test Plan
-Test Cases
-Requirement Tracebility Matrix
-Bug Reports
-Test Execution Report
+1. Test Plan
+2. Test Cases
+3. Requirement Tracebility Matrix
+4. Bug Reports
+5. Test Execution Report
 
 ## Roles and Responsibilities
 QA Manager – Review the test strategy, define test scenarios, and oversee the execution process.

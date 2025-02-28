@@ -27,9 +27,9 @@ The framework used in this demo project is Page Object Model with tests written 
 2. To execute a specific feature file, add a tag on the top of the feature file say '@regression'. Use command npx cucumber-js --tags "<TagName>"  
 
 ## Tooling Info:
-Node Version - 20.18.0
-Playwright Version - 10.8.2
-Cucumber Version - 11.0.1
+Node Version - 20.18.0 <br />
+Playwright Version - 10.8.2 <br />
+Cucumber Version - 11.0.1 <br />
 Cucumber HTML Report Version - 7.2.0
 
 ## Project Structure
